@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://nextjs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/next.svg" width="400" alt="Next.js Logo">
-  </a>
-</p>
-
 # URLShortly Frontend - With Next.js
+
+![URLShortly Website Screenshot](https://ucarecdn.com/26078d0f-8b2e-43f1-ad27-b0792103beb7/-/preview/1000x512/)
 
 URLShortly is a modern and responsive web application for shortening URLs, built using Next.js and a variety of front-end libraries and tools. The frontend integrates with the URLShortly backend API to generate short URLs and provide an intuitive user interface.
 
